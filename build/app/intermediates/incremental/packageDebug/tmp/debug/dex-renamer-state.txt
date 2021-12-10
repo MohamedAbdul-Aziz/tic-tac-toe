@@ -1,0 +1,4 @@
+#Fri Dec 10 05:04:21 EET 2021
+base.0=/home/zizo/Downloads/Compressed/work/tic_tac_toe/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
